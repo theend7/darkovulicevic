@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+	<loc>http://snowingdestinations.epizy.com/index.php?page=home</loc>
+	<lastmod>2020-02-15</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>1.0</priority>
+    <loc>http://snowingdestinations.epizy.com/index.php?page=destinations</loc>
+	<lastmod>2020-02-15</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.9</priority>
+    <loc>http://snowingdestinations.epizy.com/index.php?page=author</loc>
+<lastmod>2020-02-15</lastmod>
+	<changefreq>yearly</changefreq>
+	<priority>0.8</priority>
+	<loc>http://snowingdestinations.epizy.com/index.php?page=news</loc>
+<lastmod>2020-02-15</lastmod>
+	<changefreq>yearly</changefreq>
+	<priority>0.7</priority>
+</url>
+</urlset>
